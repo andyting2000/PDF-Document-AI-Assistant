@@ -17,7 +17,7 @@
 1. Clone the project to your local machine and navigate into the directory.
 
 ```bash
-git clone https://github.com/andyting0619/PDF-Document-AI-Assistant
+git clone https://github.com/andyting2000/PDF-Document-AI-Assistant
 cd PDF-Document-AI-Assistant
 ```
 
